@@ -1,0 +1,3562 @@
+No.     Time           Source                Destination           Protocol Length Delta          Info
+    147 17.973764      192.168.3.1           192.168.3.255         NTP      117    0.237896       reserved, private, Request, Unknown
+
+Frame 147: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 39605, Dst Port: 123
+    Source Port: 39605
+    Destination Port: 123
+    Length: 83
+    Checksum: 0xc865 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 41]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Network Time Protocol (reserved, private)
+    Flags: 0x77, Response bit: Request, Version number: reserved, Mode: reserved for private use
+    Auth, sequence: 101
+    Implementation: Unknown (32)
+    Request code: Unknown (97)
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+    221 25.984734      192.168.3.1           192.168.3.255         UDP      117    0.352868       54100 → 115 Len=75
+
+Frame 221: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 54100, Dst Port: 115
+    Source Port: 54100
+    Destination Port: 115
+    Length: 83
+    Checksum: 0x8fce [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 58]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+    246 27.988078      192.168.3.1           192.168.3.255         UDP      117    0.037093       42646 → 95 Len=75
+
+Frame 246: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 42646, Dst Port: 95
+    Source Port: 42646
+    Destination Port: 95
+    Length: 83
+    Checksum: 0xbca0 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 65]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+    280 31.992624      192.168.3.1           192.168.3.255         XTACACS  117    0.679926       Unknown (0x65)[Malformed Packet]
+
+Frame 280: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 51336, Dst Port: 49
+    Source Port: 51336
+    Destination Port: 49
+    Length: 83
+    Checksum: 0x9adc [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 72]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+XTACACS
+    Version: Unknown (0x77)
+    Type: Unknown (101)
+    Nonce: 0x2061
+    Username length: 114
+    Password length: 101
+    Response: Unknown (32)
+    Reason: Unknown (97)
+    Result 1: 0x6e6f6e79
+    Destination address: 109.111.117.115
+    Destination port: 8311
+    Line: 25888
+    Result 2: 0x61726520
+    Result 3: 0x6c65
+[Malformed Packet: TACACS]
+    [Expert Info (Error/Malformed): Malformed Packet (Exception occurred)]
+        [Malformed Packet (Exception occurred)]
+        [Severity level: Error]
+        [Group: Malformed]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+    322 35.998452      192.168.3.1           192.168.3.255         UDP      117    0.747268       53474 → 51 Len=75
+
+Frame 322: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 53474, Dst Port: 51
+    Source Port: 53474
+    Destination Port: 51
+    Length: 83
+    Checksum: 0x9280 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 83]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+    341 38.001173      192.168.3.1           192.168.3.255         UDP      117    0.308742       41279 → 95 Len=75
+
+Frame 341: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 41279, Dst Port: 95
+    Source Port: 41279
+    Destination Port: 95
+    Length: 83
+    Checksum: 0xc1f7 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 90]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+    359 40.003684      192.168.3.1           192.168.3.255         UDP      117    0.000324       45751 → 116 Len=75
+
+Frame 359: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 45751, Dst Port: 116
+    Source Port: 45751
+    Destination Port: 116
+    Length: 83
+    Checksum: 0xb06a [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 94]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+    380 42.006276      192.168.3.1           192.168.3.255         UDP      117    0.113734       54015 → 48 Len=75
+
+Frame 380: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 54015, Dst Port: 48
+    Source Port: 54015
+    Destination Port: 48
+    Length: 83
+    Checksum: 0x9066 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 98]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+    397 44.009088      192.168.3.1           192.168.3.255         UDP      117    0.002980       38138 → 95 Len=75
+
+Frame 397: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 38138, Dst Port: 95
+    Source Port: 38138
+    Destination Port: 95
+    Length: 83
+    Checksum: 0xce3c [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 102]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+    408 46.011640      192.168.3.1           192.168.3.255         UDP      117    0.319457       57955 → 108 Len=75
+
+Frame 408: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 57955, Dst Port: 108
+    Source Port: 57955
+    Destination Port: 108
+    Length: 83
+    Checksum: 0x80c6 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 106]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+    430 48.014111      192.168.3.1           192.168.3.255         XTACACS  117    0.006208       Unknown (0x65)[Malformed Packet]
+
+Frame 430: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 36111, Dst Port: 49
+    Source Port: 36111
+    Destination Port: 49
+    Length: 83
+    Checksum: 0xd655 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 112]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+XTACACS
+    Version: Unknown (0x77)
+    Type: Unknown (101)
+    Nonce: 0x2061
+    Username length: 114
+    Password length: 101
+    Response: Unknown (32)
+    Reason: Unknown (97)
+    Result 1: 0x6e6f6e79
+    Destination address: 109.111.117.115
+    Destination port: 8311
+    Line: 25888
+    Result 2: 0x61726520
+    Result 3: 0x6c65
+[Malformed Packet: TACACS]
+    [Expert Info (Error/Malformed): Malformed Packet (Exception occurred)]
+        [Malformed Packet (Exception occurred)]
+        [Severity level: Error]
+        [Group: Malformed]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+    449 50.019880      192.168.3.1           192.168.3.255         UDP      117    0.005003       55149 → 115 Len=75
+
+Frame 449: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 55149, Dst Port: 115
+    Source Port: 55149
+    Destination Port: 115
+    Length: 83
+    Checksum: 0x8bb5 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 118]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+    468 52.018990      192.168.3.1           192.168.3.255         UDP      117    0.007902       46433 → 116 Len=75
+
+Frame 468: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 46433, Dst Port: 116
+    Source Port: 46433
+    Destination Port: 116
+    Length: 83
+    Checksum: 0xadc0 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 122]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+    487 54.021529      192.168.3.1           192.168.3.255         UDP      117    0.002715       57837 → 51 Len=75
+
+Frame 487: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 57837, Dst Port: 51
+    Source Port: 57837
+    Destination Port: 51
+    Length: 83
+    Checksum: 0x8175 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 126]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+    513 56.022638      192.168.3.1           192.168.3.255         UDP      117    0.012515       46948 → 110 Len=75
+
+Frame 513: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 46948, Dst Port: 110
+    Source Port: 46948
+    Destination Port: 110
+    Length: 83
+    Checksum: 0xabc3 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 133]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+    526 58.025490      192.168.3.1           192.168.3.255         UDP      117    0.009636       43002 → 125 Len=75
+
+Frame 526: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 43002, Dst Port: 125
+    Source Port: 43002
+    Destination Port: 125
+    Length: 83
+    Checksum: 0xbb1e [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 137]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+    635 70.248028      192.168.3.1           192.168.3.255         BOOTP    117    0.214679       Unknown BOOTP message type (119)[Malformed Packet]
+
+Frame 635: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 54749, Dst Port: 67
+    Source Port: 54749
+    Destination Port: 67
+    Length: 83
+    Checksum: 0x8d75 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 161]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Dynamic Host Configuration Protocol
+    Message type: Unknown (119)
+    Hardware type: Unknown (0x65)
+    Hardware address length: 32
+    Hops: 97
+    Transaction ID: 0x72652061
+    Seconds elapsed: 28271
+    Bootp flags: 0x6e79 (Unicast)
+    Client IP address: 109.111.117.115
+    Your (client) IP address: 32.119.101.32
+    Next server IP address: 97.114.101.32
+    Relay agent IP address: 108.101.103.105
+    Client address not given
+        [Expert Info (Note/Protocol): Client address not given]
+            [Client address not given]
+            [Severity level: Note]
+            [Group: Protocol]
+[Malformed Packet: DHCP/BOOTP]
+    [Expert Info (Error/Malformed): Malformed Packet (Exception occurred)]
+        [Malformed Packet (Exception occurred)]
+        [Severity level: Error]
+        [Group: Malformed]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+    654 72.250255      192.168.3.1           192.168.3.255         UDP      117    0.241919       56123 → 89 Len=75
+
+Frame 654: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 56123, Dst Port: 89
+    Source Port: 56123
+    Destination Port: 89
+    Length: 83
+    Checksum: 0x8801 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 165]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+    673 74.253011      192.168.3.1           192.168.3.255         UDP      117    0.140389       37265 → 66 Len=75
+
+Frame 673: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 37265, Dst Port: 66
+    Source Port: 37265
+    Destination Port: 66
+    Length: 83
+    Checksum: 0xd1c2 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 171]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+    690 76.255872      192.168.3.1           192.168.3.255         UDP      117    0.082366       45279 → 78 Len=75
+
+Frame 690: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 45279, Dst Port: 78
+    Source Port: 45279
+    Destination Port: 78
+    Length: 83
+    Checksum: 0xb268 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 175]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+    702 78.258817      192.168.3.1           192.168.3.255         NTP      117    0.239543       reserved, private, Request, Unknown
+
+Frame 702: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 50898, Dst Port: 123
+    Source Port: 50898
+    Destination Port: 123
+    Length: 83
+    Checksum: 0x9c48 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 179]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Network Time Protocol (reserved, private)
+    Flags: 0x77, Response bit: Request, Version number: reserved, Mode: reserved for private use
+    Auth, sequence: 101
+    Implementation: Unknown (32)
+    Request code: Unknown (97)
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+    737 82.264673      192.168.3.1           192.168.3.255         UDP      117    0.248353       40582 → 116 Len=75
+
+Frame 737: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 40582, Dst Port: 116
+    Source Port: 40582
+    Destination Port: 116
+    Length: 83
+    Checksum: 0xc49b [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 187]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+    756 84.267225      192.168.3.1           192.168.3.255         UDP      117    0.041759       44860 → 39 Len=75
+
+Frame 756: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 44860, Dst Port: 39
+    Source Port: 44860
+    Destination Port: 39
+    Length: 83
+    Checksum: 0xb432 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 193]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+    772 86.269907      192.168.3.1           192.168.3.255         UDP      117    0.234525       59354 → 115 Len=75
+
+Frame 772: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 59354, Dst Port: 115
+    Source Port: 59354
+    Destination Port: 115
+    Length: 83
+    Checksum: 0x7b48 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 197]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+    789 88.272469      192.168.3.1           192.168.3.255         UDP      117    0.256571       53768 → 95 Len=75
+
+Frame 789: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 53768, Dst Port: 95
+    Source Port: 53768
+    Destination Port: 95
+    Length: 83
+    Checksum: 0x912e [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 201]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+    808 90.280605      192.168.3.1           192.168.3.255         UDP      117    0.099003       45716 → 110 Len=75
+
+Frame 808: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 45716, Dst Port: 110
+    Source Port: 45716
+    Destination Port: 110
+    Length: 83
+    Checksum: 0xb093 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 205]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+    827 92.277791      192.168.3.1           192.168.3.255         XTACACS  117    0.207568       Unknown (0x65)[Malformed Packet]
+
+Frame 827: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 51045, Dst Port: 49
+    Source Port: 51045
+    Destination Port: 49
+    Length: 83
+    Checksum: 0x9bff [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 212]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+XTACACS
+    Version: Unknown (0x77)
+    Type: Unknown (101)
+    Nonce: 0x2061
+    Username length: 114
+    Password length: 101
+    Response: Unknown (32)
+    Reason: Unknown (97)
+    Result 1: 0x6e6f6e79
+    Destination address: 109.111.117.115
+    Destination port: 8311
+    Line: 25888
+    Result 2: 0x61726520
+    Result 3: 0x6c65
+[Malformed Packet: TACACS]
+    [Expert Info (Error/Malformed): Malformed Packet (Exception occurred)]
+        [Malformed Packet (Exception occurred)]
+        [Severity level: Error]
+        [Group: Malformed]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+    841 94.280312      192.168.3.1           192.168.3.255         UDP      117    0.178698       38425 → 99 Len=75
+
+Frame 841: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 38425, Dst Port: 99
+    Source Port: 38425
+    Destination Port: 99
+    Length: 83
+    Checksum: 0xcd19 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 214]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+    858 96.283351      192.168.3.1           192.168.3.255         UDP      117    0.276117       58421 → 51 Len=75
+
+Frame 858: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 58421, Dst Port: 51
+    Source Port: 58421
+    Destination Port: 51
+    Length: 83
+    Checksum: 0x7f2d [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 218]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+    893 100.288263     192.168.3.1           192.168.3.255         UDP      117    0.223815       53914 → 116 Len=75
+
+Frame 893: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 53914, Dst Port: 116
+    Source Port: 53914
+    Destination Port: 116
+    Length: 83
+    Checksum: 0x9087 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 226]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+    905 102.291206     192.168.3.1           192.168.3.255         UDP      117    0.263088       33154 → 48 Len=75
+
+Frame 905: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 33154, Dst Port: 48
+    Source Port: 33154
+    Destination Port: 48
+    Length: 83
+    Checksum: 0xe1e3 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 229]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+    933 104.298017     192.168.3.1           192.168.3.255         UDP      117    0.096743       35264 → 95 Len=75
+
+Frame 933: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 35264, Dst Port: 95
+    Source Port: 35264
+    Destination Port: 95
+    Length: 83
+    Checksum: 0xd976 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 234]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+    990 110.302781     192.168.3.1           192.168.3.255         UDP      117    0.093619       53801 → 115 Len=75
+
+Frame 990: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 53801, Dst Port: 115
+    Source Port: 53801
+    Destination Port: 115
+    Length: 83
+    Checksum: 0x90f9 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 248]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1033 114.308259     192.168.3.1           192.168.3.255         UDP      117    0.299136       35896 → 51 Len=75
+
+Frame 1033: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 35896, Dst Port: 51
+    Source Port: 35896
+    Destination Port: 51
+    Length: 83
+    Checksum: 0xd72a [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 259]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1052 116.310675     192.168.3.1           192.168.3.255         UDP      117    0.126913       40379 → 110 Len=75
+
+Frame 1052: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 40379, Dst Port: 110
+    Source Port: 40379
+    Destination Port: 110
+    Length: 83
+    Checksum: 0xc56c [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 264]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1072 118.313336     192.168.3.1           192.168.3.255         UDP      117    0.115376       44580 → 125 Len=75
+
+Frame 1072: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 44580, Dst Port: 125
+    Source Port: 44580
+    Destination Port: 125
+    Length: 83
+    Checksum: 0xb4f4 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 269]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1168 130.535009     192.168.3.1           192.168.3.255         BOOTP    117    0.095753       Unknown BOOTP message type (119)[Malformed Packet]
+
+Frame 1168: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 35432, Dst Port: 67
+    Source Port: 35432
+    Destination Port: 67
+    Length: 83
+    Checksum: 0xd8ea [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 291]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Dynamic Host Configuration Protocol
+    Message type: Unknown (119)
+    Hardware type: Unknown (0x65)
+    Hardware address length: 32
+    Hops: 97
+    Transaction ID: 0x72652061
+    Seconds elapsed: 28271
+    Bootp flags: 0x6e79 (Unicast)
+    Client IP address: 109.111.117.115
+    Your (client) IP address: 32.119.101.32
+    Next server IP address: 97.114.101.32
+    Relay agent IP address: 108.101.103.105
+    Client address not given
+        [Expert Info (Note/Protocol): Client address not given]
+            [Client address not given]
+            [Severity level: Note]
+            [Group: Protocol]
+[Malformed Packet: DHCP/BOOTP]
+    [Expert Info (Error/Malformed): Malformed Packet (Exception occurred)]
+        [Malformed Packet (Exception occurred)]
+        [Severity level: Error]
+        [Group: Malformed]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1185 132.540966     192.168.3.1           192.168.3.255         UDP      117    0.358820       44685 → 89 Len=75
+
+Frame 1185: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 44685, Dst Port: 89
+    Source Port: 44685
+    Destination Port: 89
+    Length: 83
+    Checksum: 0xb4af [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 297]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1221 136.542600     192.168.3.1           192.168.3.255         UDP      117    0.359106       46253 → 78 Len=75
+
+Frame 1221: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 46253, Dst Port: 78
+    Source Port: 46253
+    Destination Port: 78
+    Length: 83
+    Checksum: 0xae9a [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 308]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1238 138.544928     192.168.3.1           192.168.3.255         NTP      117    0.104471       reserved, private, Request, Unknown
+
+Frame 1238: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 43183, Dst Port: 123
+    Source Port: 43183
+    Destination Port: 123
+    Length: 83
+    Checksum: 0xba6b [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 312]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Network Time Protocol (reserved, private)
+    Flags: 0x77, Response bit: Request, Version number: reserved, Mode: reserved for private use
+    Auth, sequence: 101
+    Implementation: Unknown (32)
+    Request code: Unknown (97)
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1270 142.550186     192.168.3.1           192.168.3.255         UDP      117    0.046767       43703 → 116 Len=75
+
+Frame 1270: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 43703, Dst Port: 116
+    Source Port: 43703
+    Destination Port: 116
+    Length: 83
+    Checksum: 0xb86a [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 321]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1290 144.552444     192.168.3.1           192.168.3.255         UDP      117    0.541280       55659 → 39 Len=75
+
+Frame 1290: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 55659, Dst Port: 39
+    Source Port: 55659
+    Destination Port: 39
+    Length: 83
+    Checksum: 0x8a03 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 326]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1315 146.555387     192.168.3.1           192.168.3.255         UDP      117    0.098783       53687 → 115 Len=75
+
+Frame 1315: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 53687, Dst Port: 115
+    Source Port: 53687
+    Destination Port: 115
+    Length: 83
+    Checksum: 0x916b [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 332]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1332 148.558104     192.168.3.1           192.168.3.255         UDP      117    0.297362       46967 → 95 Len=75
+
+Frame 1332: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 46967, Dst Port: 95
+    Source Port: 46967
+    Destination Port: 95
+    Length: 83
+    Checksum: 0xabbf [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 336]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1350 150.560703     192.168.3.1           192.168.3.255         UDP      117    0.053568       56218 → 110 Len=75
+
+Frame 1350: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 56218, Dst Port: 110
+    Source Port: 56218
+    Destination Port: 110
+    Length: 83
+    Checksum: 0x878d [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 341]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1369 152.563247     192.168.3.1           192.168.3.255         XTACACS  117    0.550000       Unknown (0x65)[Malformed Packet]
+
+Frame 1369: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 38914, Dst Port: 49
+    Source Port: 38914
+    Destination Port: 49
+    Length: 83
+    Checksum: 0xcb62 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 346]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+XTACACS
+    Version: Unknown (0x77)
+    Type: Unknown (101)
+    Nonce: 0x2061
+    Username length: 114
+    Password length: 101
+    Response: Unknown (32)
+    Reason: Unknown (97)
+    Result 1: 0x6e6f6e79
+    Destination address: 109.111.117.115
+    Destination port: 8311
+    Line: 25888
+    Result 2: 0x61726520
+    Result 3: 0x6c65
+[Malformed Packet: TACACS]
+    [Expert Info (Error/Malformed): Malformed Packet (Exception occurred)]
+        [Malformed Packet (Exception occurred)]
+        [Severity level: Error]
+        [Group: Malformed]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1390 154.566063     192.168.3.1           192.168.3.255         UDP      117    0.126441       40711 → 99 Len=75
+
+Frame 1390: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 40711, Dst Port: 99
+    Source Port: 40711
+    Destination Port: 99
+    Length: 83
+    Checksum: 0xc42b [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 353]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1405 156.568646     192.168.3.1           192.168.3.255         UDP      117    0.502138       43844 → 51 Len=75
+
+Frame 1405: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 43844, Dst Port: 51
+    Source Port: 43844
+    Destination Port: 51
+    Length: 83
+    Checksum: 0xb81e [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 356]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1421 158.571530     192.168.3.1           192.168.3.255         UDP      117    0.067039       35253 → 95 Len=75
+
+Frame 1421: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 35253, Dst Port: 95
+    Source Port: 35253
+    Destination Port: 95
+    Length: 83
+    Checksum: 0xd981 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 361]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1438 160.574306     192.168.3.1           192.168.3.255         UDP      117    0.218794       50181 → 116 Len=75
+
+Frame 1438: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 50181, Dst Port: 116
+    Source Port: 50181
+    Destination Port: 116
+    Length: 83
+    Checksum: 0x9f1c [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 365]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1455 162.576911     192.168.3.1           192.168.3.255         UDP      117    0.137508       55708 → 48 Len=75
+
+Frame 1455: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 55708, Dst Port: 48
+    Source Port: 55708
+    Destination Port: 48
+    Length: 83
+    Checksum: 0x89c9 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 369]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1470 164.579579     192.168.3.1           192.168.3.255         UDP      117    0.469764       55864 → 95 Len=75
+
+Frame 1470: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 55864, Dst Port: 95
+    Source Port: 55864
+    Destination Port: 95
+    Length: 83
+    Checksum: 0x88fe [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 373]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1484 166.584642     192.168.3.1           192.168.3.255         UDP      117    0.079973       40026 → 108 Len=75
+
+Frame 1484: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 40026, Dst Port: 108
+    Source Port: 40026
+    Destination Port: 108
+    Length: 83
+    Checksum: 0xc6cf [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 375]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1506 168.586478     192.168.3.1           192.168.3.255         XTACACS  117    0.238985       Unknown (0x65)[Malformed Packet]
+
+Frame 1506: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 35744, Dst Port: 49
+    Source Port: 35744
+    Destination Port: 49
+    Length: 83
+    Checksum: 0xd7c4 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 380]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+XTACACS
+    Version: Unknown (0x77)
+    Type: Unknown (101)
+    Nonce: 0x2061
+    Username length: 114
+    Password length: 101
+    Response: Unknown (32)
+    Reason: Unknown (97)
+    Result 1: 0x6e6f6e79
+    Destination address: 109.111.117.115
+    Destination port: 8311
+    Line: 25888
+    Result 2: 0x61726520
+    Result 3: 0x6c65
+[Malformed Packet: TACACS]
+    [Expert Info (Error/Malformed): Malformed Packet (Exception occurred)]
+        [Malformed Packet (Exception occurred)]
+        [Severity level: Error]
+        [Group: Malformed]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1523 170.587439     192.168.3.1           192.168.3.255         UDP      117    0.149387       41867 → 115 Len=75
+
+Frame 1523: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 41867, Dst Port: 115
+    Source Port: 41867
+    Destination Port: 115
+    Length: 83
+    Checksum: 0xbf97 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 386]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1557 174.593988     192.168.3.1           192.168.3.255         UDP      117    0.086976       59422 → 51 Len=75
+
+Frame 1557: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 59422, Dst Port: 51
+    Source Port: 59422
+    Destination Port: 51
+    Length: 83
+    Checksum: 0x7b44 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 394]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1576 176.595637     192.168.3.1           192.168.3.255         UDP      117    0.393009       34043 → 110 Len=75
+
+Frame 1576: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 34043, Dst Port: 110
+    Source Port: 34043
+    Destination Port: 110
+    Length: 83
+    Checksum: 0xde2c [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 399]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1694 189.835071     192.168.3.1           192.168.3.255         BOOTP    117    0.143626       Unknown BOOTP message type (119)[Malformed Packet]
+
+Frame 1694: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 40382, Dst Port: 67
+    Source Port: 40382
+    Destination Port: 67
+    Length: 83
+    Checksum: 0xc594 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 426]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Dynamic Host Configuration Protocol
+    Message type: Unknown (119)
+    Hardware type: Unknown (0x65)
+    Hardware address length: 32
+    Hops: 97
+    Transaction ID: 0x72652061
+    Seconds elapsed: 28271
+    Bootp flags: 0x6e79 (Unicast)
+    Client IP address: 109.111.117.115
+    Your (client) IP address: 32.119.101.32
+    Next server IP address: 97.114.101.32
+    Relay agent IP address: 108.101.103.105
+    Client address not given
+        [Expert Info (Note/Protocol): Client address not given]
+            [Client address not given]
+            [Severity level: Note]
+            [Group: Protocol]
+[Malformed Packet: DHCP/BOOTP]
+    [Expert Info (Error/Malformed): Malformed Packet (Exception occurred)]
+        [Malformed Packet (Exception occurred)]
+        [Severity level: Error]
+        [Group: Malformed]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1716 191.836589     192.168.3.1           192.168.3.255         UDP      117    0.500534       49129 → 89 Len=75
+
+Frame 1716: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 49129, Dst Port: 89
+    Source Port: 49129
+    Destination Port: 89
+    Length: 83
+    Checksum: 0xa353 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 431]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1735 193.838884     192.168.3.1           192.168.3.255         UDP      117    0.208216       49469 → 66 Len=75
+
+Frame 1735: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 49469, Dst Port: 66
+    Source Port: 49469
+    Destination Port: 66
+    Length: 83
+    Checksum: 0xa216 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 437]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1782 197.845363     192.168.3.1           192.168.3.255         NTP      117    0.154992       reserved, private, Request, Unknown
+
+Frame 1782: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 50800, Dst Port: 123
+    Source Port: 50800
+    Destination Port: 123
+    Length: 83
+    Checksum: 0x9caa [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 454]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Network Time Protocol (reserved, private)
+    Flags: 0x77, Response bit: Request, Version number: reserved, Mode: reserved for private use
+    Auth, sequence: 101
+    Implementation: Unknown (32)
+    Request code: Unknown (97)
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1798 199.847301     192.168.3.1           192.168.3.255         XTACACS  117    0.258287       Unknown (0x65)[Malformed Packet]
+
+Frame 1798: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 38429, Dst Port: 49
+    Source Port: 38429
+    Destination Port: 49
+    Length: 83
+    Checksum: 0xcd47 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 456]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+XTACACS
+    Version: Unknown (0x77)
+    Type: Unknown (101)
+    Nonce: 0x2061
+    Username length: 114
+    Password length: 101
+    Response: Unknown (32)
+    Reason: Unknown (97)
+    Result 1: 0x6e6f6e79
+    Destination address: 109.111.117.115
+    Destination port: 8311
+    Line: 25888
+    Result 2: 0x61726520
+    Result 3: 0x6c65
+[Malformed Packet: TACACS]
+    [Expert Info (Error/Malformed): Malformed Packet (Exception occurred)]
+        [Malformed Packet (Exception occurred)]
+        [Severity level: Error]
+        [Group: Malformed]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1827 201.850541     192.168.3.1           192.168.3.255         UDP      117    0.222218       38625 → 116 Len=75
+
+Frame 1827: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 38625, Dst Port: 116
+    Source Port: 38625
+    Destination Port: 116
+    Length: 83
+    Checksum: 0xcc40 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 466]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1859 203.852838     192.168.3.1           192.168.3.255         UDP      117    0.033965       51941 → 39 Len=75
+
+Frame 1859: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 51941, Dst Port: 39
+    Source Port: 51941
+    Destination Port: 39
+    Length: 83
+    Checksum: 0x9889 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 476]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1872 205.855491     192.168.3.1           192.168.3.255         UDP      117    0.157636       55640 → 115 Len=75
+
+Frame 1872: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 55640, Dst Port: 115
+    Source Port: 55640
+    Destination Port: 115
+    Length: 83
+    Checksum: 0x89ca [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 481]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1896 207.858047     192.168.3.1           192.168.3.255         UDP      117    0.192354       54778 → 95 Len=75
+
+Frame 1896: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 54778, Dst Port: 95
+    Source Port: 54778
+    Destination Port: 95
+    Length: 83
+    Checksum: 0x8d3c [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 490]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1919 209.860708     192.168.3.1           192.168.3.255         UDP      117    0.233160       41816 → 110 Len=75
+
+Frame 1919: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 41816, Dst Port: 110
+    Source Port: 41816
+    Destination Port: 110
+    Length: 83
+    Checksum: 0xbfcf [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 494]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1934 211.865381     192.168.3.1           192.168.3.255         XTACACS  117    0.181858       Unknown (0x65)[Malformed Packet]
+
+Frame 1934: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 47328, Dst Port: 49
+    Source Port: 47328
+    Destination Port: 49
+    Length: 83
+    Checksum: 0xaa84 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 499]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+XTACACS
+    Version: Unknown (0x77)
+    Type: Unknown (101)
+    Nonce: 0x2061
+    Username length: 114
+    Password length: 101
+    Response: Unknown (32)
+    Reason: Unknown (97)
+    Result 1: 0x6e6f6e79
+    Destination address: 109.111.117.115
+    Destination port: 8311
+    Line: 25888
+    Result 2: 0x61726520
+    Result 3: 0x6c65
+[Malformed Packet: TACACS]
+    [Expert Info (Error/Malformed): Malformed Packet (Exception occurred)]
+        [Malformed Packet (Exception occurred)]
+        [Severity level: Error]
+        [Group: Malformed]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1953 213.866006     192.168.3.1           192.168.3.255         UDP      117    0.175042       44099 → 99 Len=75
+
+Frame 1953: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 44099, Dst Port: 99
+    Source Port: 44099
+    Destination Port: 99
+    Length: 83
+    Checksum: 0xb6ef [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 504]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1975 215.868622     192.168.3.1           192.168.3.255         UDP      117    0.328997       53606 → 51 Len=75
+
+Frame 1975: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 53606, Dst Port: 51
+    Source Port: 53606
+    Destination Port: 51
+    Length: 83
+    Checksum: 0x91fc [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 512]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   1998 217.873050     192.168.3.1           192.168.3.255         UDP      117    0.156845       41851 → 95 Len=75
+
+Frame 1998: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 41851, Dst Port: 95
+    Source Port: 41851
+    Destination Port: 95
+    Length: 83
+    Checksum: 0xbfbb [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 517]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   2011 219.873845     192.168.3.1           192.168.3.255         UDP      117    0.618369       57759 → 116 Len=75
+
+Frame 2011: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 57759, Dst Port: 116
+    Source Port: 57759
+    Destination Port: 116
+    Length: 83
+    Checksum: 0x8182 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 521]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   2028 221.877140     192.168.3.1           192.168.3.255         UDP      117    0.183950       38983 → 48 Len=75
+
+Frame 2028: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 38983, Dst Port: 48
+    Source Port: 38983
+    Destination Port: 48
+    Length: 83
+    Checksum: 0xcb1e [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 527]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   2052 223.880076     192.168.3.1           192.168.3.255         UDP      117    0.128020       54940 → 95 Len=75
+
+Frame 2052: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 54940, Dst Port: 95
+    Source Port: 54940
+    Destination Port: 95
+    Length: 83
+    Checksum: 0x8c9a [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 533]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   2079 225.883244     192.168.3.1           192.168.3.255         UDP      117    0.240204       45930 → 108 Len=75
+
+Frame 2079: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 45930, Dst Port: 108
+    Source Port: 45930
+    Destination Port: 108
+    Length: 83
+    Checksum: 0xafbf [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 540]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   2106 227.887670     192.168.3.1           192.168.3.255         XTACACS  117    0.230886       Unknown (0x65)[Malformed Packet]
+
+Frame 2106: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 34110, Dst Port: 49
+    Source Port: 34110
+    Destination Port: 49
+    Length: 83
+    Checksum: 0xde26 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 546]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+XTACACS
+    Version: Unknown (0x77)
+    Type: Unknown (101)
+    Nonce: 0x2061
+    Username length: 114
+    Password length: 101
+    Response: Unknown (32)
+    Reason: Unknown (97)
+    Result 1: 0x6e6f6e79
+    Destination address: 109.111.117.115
+    Destination port: 8311
+    Line: 25888
+    Result 2: 0x61726520
+    Result 3: 0x6c65
+[Malformed Packet: TACACS]
+    [Expert Info (Error/Malformed): Malformed Packet (Exception occurred)]
+        [Malformed Packet (Exception occurred)]
+        [Severity level: Error]
+        [Group: Malformed]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   2127 229.889633     192.168.3.1           192.168.3.255         UDP      117    0.061874       59728 → 115 Len=75
+
+Frame 2127: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 59728, Dst Port: 115
+    Source Port: 59728
+    Destination Port: 115
+    Length: 83
+    Checksum: 0x79d2 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 550]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   2151 231.891330     192.168.3.1           192.168.3.255         UDP      117    0.574789       34669 → 116 Len=75
+
+Frame 2151: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 34669, Dst Port: 116
+    Source Port: 34669
+    Destination Port: 116
+    Length: 83
+    Checksum: 0xdbb4 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 557]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   2184 233.894243     192.168.3.1           192.168.3.255         UDP      117    0.170645       53930 → 51 Len=75
+
+Frame 2184: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 53930, Dst Port: 51
+    Source Port: 53930
+    Destination Port: 51
+    Length: 83
+    Checksum: 0x90b8 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 566]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   2203 235.897110     192.168.3.1           192.168.3.255         UDP      117    0.021109       59133 → 110 Len=75
+
+Frame 2203: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 59133, Dst Port: 110
+    Source Port: 59133
+    Destination Port: 110
+    Length: 83
+    Checksum: 0x7c2a [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 570]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   2218 237.900080     192.168.3.1           192.168.3.255         UDP      117    0.206856       41007 → 125 Len=75
+
+Frame 2218: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 41007, Dst Port: 125
+    Source Port: 41007
+    Destination Port: 125
+    Length: 83
+    Checksum: 0xc2e9 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 575]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   2324 250.118550     192.168.3.1           192.168.3.255         BOOTP    117    0.102305       Unknown BOOTP message type (119)[Malformed Packet]
+
+Frame 2324: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 47280, Dst Port: 67
+    Source Port: 47280
+    Destination Port: 67
+    Length: 83
+    Checksum: 0xaaa2 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 598]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Dynamic Host Configuration Protocol
+    Message type: Unknown (119)
+    Hardware type: Unknown (0x65)
+    Hardware address length: 32
+    Hops: 97
+    Transaction ID: 0x72652061
+    Seconds elapsed: 28271
+    Bootp flags: 0x6e79 (Unicast)
+    Client IP address: 109.111.117.115
+    Your (client) IP address: 32.119.101.32
+    Next server IP address: 97.114.101.32
+    Relay agent IP address: 108.101.103.105
+    Client address not given
+        [Expert Info (Note/Protocol): Client address not given]
+            [Client address not given]
+            [Severity level: Note]
+            [Group: Protocol]
+[Malformed Packet: DHCP/BOOTP]
+    [Expert Info (Error/Malformed): Malformed Packet (Exception occurred)]
+        [Malformed Packet (Exception occurred)]
+        [Severity level: Error]
+        [Group: Malformed]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   2377 254.122860     192.168.3.1           192.168.3.255         UDP      117    0.108128       53750 → 66 Len=75
+
+Frame 2377: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 53750, Dst Port: 66
+    Source Port: 53750
+    Destination Port: 66
+    Length: 83
+    Checksum: 0x915d [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 614]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   2396 256.125412     192.168.3.1           192.168.3.255         UDP      117    0.118336       45150 → 78 Len=75
+
+Frame 2396: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 45150, Dst Port: 78
+    Source Port: 45150
+    Destination Port: 78
+    Length: 83
+    Checksum: 0xb2e9 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 620]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   2415 258.130742     192.168.3.1           192.168.3.255         NTP      117    0.120845       reserved, private, Request, Unknown
+
+Frame 2415: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 58137, Dst Port: 123
+    Source Port: 58137
+    Destination Port: 123
+    Length: 83
+    Checksum: 0x8001 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 626]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Network Time Protocol (reserved, private)
+    Flags: 0x77, Response bit: Request, Version number: reserved, Mode: reserved for private use
+    Auth, sequence: 101
+    Implementation: Unknown (32)
+    Request code: Unknown (97)
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   2434 260.131222     192.168.3.1           192.168.3.255         XTACACS  117    0.058571       Unknown (0x65)[Malformed Packet]
+
+Frame 2434: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 40233, Dst Port: 49
+    Source Port: 40233
+    Destination Port: 49
+    Length: 83
+    Checksum: 0xc63b [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 631]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+XTACACS
+    Version: Unknown (0x77)
+    Type: Unknown (101)
+    Nonce: 0x2061
+    Username length: 114
+    Password length: 101
+    Response: Unknown (32)
+    Reason: Unknown (97)
+    Result 1: 0x6e6f6e79
+    Destination address: 109.111.117.115
+    Destination port: 8311
+    Line: 25888
+    Result 2: 0x61726520
+    Result 3: 0x6c65
+[Malformed Packet: TACACS]
+    [Expert Info (Error/Malformed): Malformed Packet (Exception occurred)]
+        [Malformed Packet (Exception occurred)]
+        [Severity level: Error]
+        [Group: Malformed]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   2448 262.135214     192.168.3.1           192.168.3.255         UDP      117    0.115862       39959 → 116 Len=75
+
+Frame 2448: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 39959, Dst Port: 116
+    Source Port: 39959
+    Destination Port: 116
+    Length: 83
+    Checksum: 0xc70a [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 635]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   2471 264.136936     192.168.3.1           192.168.3.255         UDP      117    0.126863       58065 → 39 Len=75
+
+Frame 2471: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 58065, Dst Port: 39
+    Source Port: 58065
+    Destination Port: 39
+    Length: 83
+    Checksum: 0x809d [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 640]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   2518 266.137270     192.168.3.1           192.168.3.255         UDP      117    0.011388       45479 → 115 Len=75
+
+Frame 2518: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 45479, Dst Port: 115
+    Source Port: 45479
+    Destination Port: 115
+    Length: 83
+    Checksum: 0xb17b [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 654]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   2539 268.140303     192.168.3.1           192.168.3.255         UDP      117    0.066971       50498 → 95 Len=75
+
+Frame 2539: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 50498, Dst Port: 95
+    Source Port: 50498
+    Destination Port: 95
+    Length: 83
+    Checksum: 0x9df4 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 659]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   2631 274.148090     192.168.3.1           192.168.3.255         UDP      117    0.091923       35081 → 99 Len=75
+
+Frame 2631: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 35081, Dst Port: 99
+    Source Port: 35081
+    Destination Port: 99
+    Length: 83
+    Checksum: 0xda29 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 686]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   2678 276.150594     192.168.3.1           192.168.3.255         UDP      117    0.085964       56704 → 51 Len=75
+
+Frame 2678: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 56704, Dst Port: 51
+    Source Port: 56704
+    Destination Port: 51
+    Length: 83
+    Checksum: 0x85e2 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 704]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   2688 278.153315     192.168.3.1           192.168.3.255         UDP      117    0.142080       37140 → 95 Len=75
+
+Frame 2688: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 37140, Dst Port: 95
+    Source Port: 37140
+    Destination Port: 95
+    Length: 83
+    Checksum: 0xd222 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 707]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   2715 280.155576     192.168.3.1           192.168.3.255         UDP      117    0.147598       54877 → 116 Len=75
+
+Frame 2715: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 54877, Dst Port: 116
+    Source Port: 54877
+    Destination Port: 116
+    Length: 83
+    Checksum: 0x8cc4 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 712]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   2736 282.159092     192.168.3.1           192.168.3.255         UDP      117    0.034785       51331 → 48 Len=75
+
+Frame 2736: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 51331, Dst Port: 48
+    Source Port: 51331
+    Destination Port: 48
+    Length: 83
+    Checksum: 0x9ae2 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 720]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   2751 284.161039     192.168.3.1           192.168.3.255         UDP      117    0.093691       51829 → 95 Len=75
+
+Frame 2751: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 51829, Dst Port: 95
+    Source Port: 51829
+    Destination Port: 95
+    Length: 83
+    Checksum: 0x98c1 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 722]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   2765 286.163646     192.168.3.1           192.168.3.255         UDP      117    0.134747       50079 → 108 Len=75
+
+Frame 2765: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 50079, Dst Port: 108
+    Source Port: 50079
+    Destination Port: 108
+    Length: 83
+    Checksum: 0x9f8a [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 727]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   2800 290.169430     192.168.3.1           192.168.3.255         UDP      117    0.154293       45372 → 115 Len=75
+
+Frame 2800: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 45372, Dst Port: 115
+    Source Port: 45372
+    Destination Port: 115
+    Length: 83
+    Checksum: 0xb1e6 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 736]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   2817 292.172600     192.168.3.1           192.168.3.255         UDP      117    0.107360       50389 → 116 Len=75
+
+Frame 2817: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 50389, Dst Port: 116
+    Source Port: 50389
+    Destination Port: 116
+    Length: 83
+    Checksum: 0x9e4c [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 741]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   2833 294.175097     192.168.3.1           192.168.3.255         UDP      117    0.150348       38058 → 51 Len=75
+
+Frame 2833: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 38058, Dst Port: 51
+    Source Port: 38058
+    Destination Port: 51
+    Length: 83
+    Checksum: 0xceb8 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 747]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   2854 296.177421     192.168.3.1           192.168.3.255         UDP      117    0.167443       44581 → 110 Len=75
+
+Frame 2854: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 44581, Dst Port: 110
+    Source Port: 44581
+    Destination Port: 110
+    Length: 83
+    Checksum: 0xb502 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 751]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   2869 298.180287     192.168.3.1           192.168.3.255         UDP      117    0.160382       54355 → 125 Len=75
+
+Frame 2869: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 54355, Dst Port: 125
+    Source Port: 54355
+    Destination Port: 125
+    Length: 83
+    Checksum: 0x8ec5 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 754]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   2981 310.401059     192.168.3.1           192.168.3.255         BOOTP    117    0.369980       Unknown BOOTP message type (119)[Malformed Packet]
+
+Frame 2981: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 36088, Dst Port: 67
+    Source Port: 36088
+    Destination Port: 67
+    Length: 83
+    Checksum: 0xd65a [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 778]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Dynamic Host Configuration Protocol
+    Message type: Unknown (119)
+    Hardware type: Unknown (0x65)
+    Hardware address length: 32
+    Hops: 97
+    Transaction ID: 0x72652061
+    Seconds elapsed: 28271
+    Bootp flags: 0x6e79 (Unicast)
+    Client IP address: 109.111.117.115
+    Your (client) IP address: 32.119.101.32
+    Next server IP address: 97.114.101.32
+    Relay agent IP address: 108.101.103.105
+    Client address not given
+        [Expert Info (Note/Protocol): Client address not given]
+            [Client address not given]
+            [Severity level: Note]
+            [Group: Protocol]
+[Malformed Packet: DHCP/BOOTP]
+    [Expert Info (Error/Malformed): Malformed Packet (Exception occurred)]
+        [Malformed Packet (Exception occurred)]
+        [Severity level: Error]
+        [Group: Malformed]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   3002 312.403109     192.168.3.1           192.168.3.255         UDP      117    0.043001       54076 → 89 Len=75
+
+Frame 3002: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 54076, Dst Port: 89
+    Source Port: 54076
+    Destination Port: 89
+    Length: 83
+    Checksum: 0x9000 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 783]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   3017 314.405324     192.168.3.1           192.168.3.255         UDP      117    0.220626       37323 → 66 Len=75
+
+Frame 3017: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 37323, Dst Port: 66
+    Source Port: 37323
+    Destination Port: 66
+    Length: 83
+    Checksum: 0xd188 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 787]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   3036 316.408388     192.168.3.1           192.168.3.255         UDP      117    0.343140       37902 → 78 Len=75
+
+Frame 3036: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 37902, Dst Port: 78
+    Source Port: 37902
+    Destination Port: 78
+    Length: 83
+    Checksum: 0xcf39 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 793]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   3054 318.410710     192.168.3.1           192.168.3.255         NTP      117    0.006862       reserved, private, Request, Unknown
+
+Frame 3054: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 43395, Dst Port: 123
+    Source Port: 43395
+    Destination Port: 123
+    Length: 83
+    Checksum: 0xb997 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 799]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Network Time Protocol (reserved, private)
+    Flags: 0x77, Response bit: Request, Version number: reserved, Mode: reserved for private use
+    Auth, sequence: 101
+    Implementation: Unknown (32)
+    Request code: Unknown (97)
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   3069 320.413413     192.168.3.1           192.168.3.255         XTACACS  117    0.402954       Unknown (0x65)[Malformed Packet]
+
+Frame 3069: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 33794, Dst Port: 49
+    Source Port: 33794
+    Destination Port: 49
+    Length: 83
+    Checksum: 0xdf62 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 802]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+XTACACS
+    Version: Unknown (0x77)
+    Type: Unknown (101)
+    Nonce: 0x2061
+    Username length: 114
+    Password length: 101
+    Response: Unknown (32)
+    Reason: Unknown (97)
+    Result 1: 0x6e6f6e79
+    Destination address: 109.111.117.115
+    Destination port: 8311
+    Line: 25888
+    Result 2: 0x61726520
+    Result 3: 0x6c65
+[Malformed Packet: TACACS]
+    [Expert Info (Error/Malformed): Malformed Packet (Exception occurred)]
+        [Malformed Packet (Exception occurred)]
+        [Severity level: Error]
+        [Group: Malformed]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   3086 322.416136     192.168.3.1           192.168.3.255         UDP      117    0.407653       32912 → 116 Len=75
+
+Frame 3086: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 32912, Dst Port: 116
+    Source Port: 32912
+    Destination Port: 116
+    Length: 83
+    Checksum: 0xe291 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 805]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   3105 324.418693     192.168.3.1           192.168.3.255         UDP      117    0.342151       37709 → 39 Len=75
+
+Frame 3105: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 37709, Dst Port: 39
+    Source Port: 37709
+    Destination Port: 39
+    Length: 83
+    Checksum: 0xd021 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 809]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   3146 328.424678     192.168.3.1           192.168.3.255         UDP      117    0.185243       60751 → 95 Len=75
+
+Frame 3146: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 60751, Dst Port: 95
+    Source Port: 60751
+    Destination Port: 95
+    Length: 83
+    Checksum: 0x75e7 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 822]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   3159 330.427563     192.168.3.1           192.168.3.255         UDP      117    0.422660       58246 → 110 Len=75
+
+Frame 3159: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 58246, Dst Port: 110
+    Source Port: 58246
+    Destination Port: 110
+    Length: 83
+    Checksum: 0x7fa1 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 825]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   3176 332.432363     192.168.3.1           192.168.3.255         XTACACS  117    0.367274       Unknown (0x65)[Malformed Packet]
+
+Frame 3176: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 50297, Dst Port: 49
+    Source Port: 50297
+    Destination Port: 49
+    Length: 83
+    Checksum: 0x9eeb [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 830]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+XTACACS
+    Version: Unknown (0x77)
+    Type: Unknown (101)
+    Nonce: 0x2061
+    Username length: 114
+    Password length: 101
+    Response: Unknown (32)
+    Reason: Unknown (97)
+    Result 1: 0x6e6f6e79
+    Destination address: 109.111.117.115
+    Destination port: 8311
+    Line: 25888
+    Result 2: 0x61726520
+    Result 3: 0x6c65
+[Malformed Packet: TACACS]
+    [Expert Info (Error/Malformed): Malformed Packet (Exception occurred)]
+        [Malformed Packet (Exception occurred)]
+        [Severity level: Error]
+        [Group: Malformed]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   3194 334.433232     192.168.3.1           192.168.3.255         UDP      117    0.261789       44042 → 99 Len=75
+
+Frame 3194: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 44042, Dst Port: 99
+    Source Port: 44042
+    Destination Port: 99
+    Length: 83
+    Checksum: 0xb728 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 835]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   3215 336.436408     192.168.3.1           192.168.3.255         UDP      117    0.258930       44002 → 51 Len=75
+
+Frame 3215: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 44002, Dst Port: 51
+    Source Port: 44002
+    Destination Port: 51
+    Length: 83
+    Checksum: 0xb780 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 841]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   3231 338.438298     192.168.3.1           192.168.3.255         UDP      117    0.000956       45083 → 95 Len=75
+
+Frame 3231: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 45083, Dst Port: 95
+    Source Port: 45083
+    Destination Port: 95
+    Length: 83
+    Checksum: 0xb31b [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 845]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   3248 340.441083     192.168.3.1           192.168.3.255         UDP      117    0.377531       51899 → 116 Len=75
+
+Frame 3248: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 51899, Dst Port: 116
+    Source Port: 51899
+    Destination Port: 116
+    Length: 83
+    Checksum: 0x9866 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 848]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   3262 342.443690     192.168.3.1           192.168.3.255         UDP      117    0.251157       60705 → 48 Len=75
+
+Frame 3262: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 60705, Dst Port: 48
+    Source Port: 60705
+    Destination Port: 48
+    Length: 83
+    Checksum: 0x7644 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 852]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   3288 344.446321     192.168.3.1           192.168.3.255         UDP      117    0.241860       35892 → 95 Len=75
+
+Frame 3288: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 35892, Dst Port: 95
+    Source Port: 35892
+    Destination Port: 95
+    Length: 83
+    Checksum: 0xd702 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 857]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   3309 346.448695     192.168.3.1           192.168.3.255         UDP      117    0.009276       50585 → 108 Len=75
+
+Frame 3309: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 50585, Dst Port: 108
+    Source Port: 50585
+    Destination Port: 108
+    Length: 83
+    Checksum: 0x9d90 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 861]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   3328 348.451684     192.168.3.1           192.168.3.255         XTACACS  117    0.387803       Unknown (0x65)[Malformed Packet]
+
+Frame 3328: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 58937, Dst Port: 49
+    Source Port: 58937
+    Destination Port: 49
+    Length: 83
+    Checksum: 0x7d2b [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 866]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+XTACACS
+    Version: Unknown (0x77)
+    Type: Unknown (101)
+    Nonce: 0x2061
+    Username length: 114
+    Password length: 101
+    Response: Unknown (32)
+    Reason: Unknown (97)
+    Result 1: 0x6e6f6e79
+    Destination address: 109.111.117.115
+    Destination port: 8311
+    Line: 25888
+    Result 2: 0x61726520
+    Result 3: 0x6c65
+[Malformed Packet: TACACS]
+    [Expert Info (Error/Malformed): Malformed Packet (Exception occurred)]
+        [Malformed Packet (Exception occurred)]
+        [Severity level: Error]
+        [Group: Malformed]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   3348 350.454762     192.168.3.1           192.168.3.255         UDP      117    0.374466       53232 → 115 Len=75
+
+Frame 3348: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 53232, Dst Port: 115
+    Source Port: 53232
+    Destination Port: 115
+    Length: 83
+    Checksum: 0x9332 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 872]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   3370 352.456559     192.168.3.1           192.168.3.255         UDP      117    0.450065       34032 → 116 Len=75
+
+Frame 3370: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 34032, Dst Port: 116
+    Source Port: 34032
+    Destination Port: 116
+    Length: 83
+    Checksum: 0xde31 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 878]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   3389 354.466580     192.168.3.1           192.168.3.255         UDP      117    0.027009       58093 → 51 Len=75
+
+Frame 3389: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 58093, Dst Port: 51
+    Source Port: 58093
+    Destination Port: 51
+    Length: 83
+    Checksum: 0x8075 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 883]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   3408 356.462127     192.168.3.1           192.168.3.255         UDP      117    0.106299       47758 → 110 Len=75
+
+Frame 3408: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 47758, Dst Port: 110
+    Source Port: 47758
+    Destination Port: 110
+    Length: 83
+    Checksum: 0xa899 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 890]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
+
+No.     Time           Source                Destination           Protocol Length Delta          Info
+   3422 358.464662     192.168.3.1           192.168.3.255         UDP      117    0.445463       48418 → 125 Len=75
+
+Frame 3422: 117 bytes on wire (936 bits), 117 bytes captured (936 bits) on interface \Device\NPF_{E7E15DC9-04AF-4874-9205-79BACEB6716D}, id 0
+Ethernet II, Src: Raspberr_e5:3b:5c (b8:27:eb:e5:3b:5c), Dst: Broadcast (ff:ff:ff:ff:ff:ff)
+Internet Protocol Version 4, Src: 192.168.3.1, Dst: 192.168.3.255
+User Datagram Protocol, Src Port: 48418, Dst Port: 125
+    Source Port: 48418
+    Destination Port: 125
+    Length: 83
+    Checksum: 0xa5f6 [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 895]
+    [Timestamps]
+        [Time since first frame: 0.000000000 seconds]
+        [Time since previous frame: 0.000000000 seconds]
+    UDP payload (75 bytes)
+Data (75 bytes)
+
+0000  77 65 20 61 72 65 20 61 6e 6f 6e 79 6d 6f 75 73   we are anonymous
+0010  20 77 65 20 61 72 65 20 6c 65 67 69 6f 6e 20 77    we are legion w
+0020  65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 69 76 65   e do not forgive
+0030  20 77 65 20 64 6f 20 6e 6f 74 20 66 6f 72 67 65    we do not forge
+0040  74 20 65 78 70 65 63 74 20 75 73                  t expect us
+    Data: 77652061726520616e6f6e796d6f757320776520617265206c6567696f6e20776520646f…
+    [Length: 75]
