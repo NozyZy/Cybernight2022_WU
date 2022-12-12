@@ -23,7 +23,7 @@ Ca parle de WiFi, donc premier reflexe, regarder les réseaux Wifi :
 Suspect, n'est-ce pas ? <br/>
 Ce n'est évidemment pas le flag comme ça, et si c'était encodé ?
 
-Je capte donc
+Je capte donc <br/>
 ![img_1.png](img_1.png)
 
 

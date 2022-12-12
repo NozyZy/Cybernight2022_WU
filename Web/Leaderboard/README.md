@@ -23,16 +23,16 @@ C'est exactement la première étape demandée dans la description, et ensuite ?
 ça ne soumet aucun score sur notre compte puisque nous ne spécifions à aucun moment notre compte à l'application. <br/>
 
 On se doute donc que la soumission passe forcément par des requêtes web.<br/>
-Si on flush notre DNS (`ipconfig /flushdns` sur windows), ouvre wireshark, lançons le simulator et réussissons un score, on remarque qu'une requete DNS est envoyée :
+Si on flush notre DNS (`ipconfig /flushdns` sur windows), ouvre wireshark, lance le simulator et réussi un score ; on remarque qu'une requête DNS est envoyée :
 ![img_1.png](img_1.png)
 
-Conclusion : la requette http est donc dirigée vers https://roombaverse.cybernight-c.tf/
+Conclusion : la requête http est donc dirigée vers https://roombaverse.cybernight-c.tf/
 
 On ne voit pas la suite, parce que Wireguard : 
 ![img_2.png](img_2.png)
 
 
-On peut donc tenter une stratégie : intercepter la requete en se faisant passer pour le serveur. <br/>
+On peut donc tenter une stratégie : intercepter la requête en se faisant passer pour le serveur. <br/>
 Pour cette recette, il nous faut :
 - Un nom de domaine local correspondant
 - Un serveur HTTPS fonctionnel

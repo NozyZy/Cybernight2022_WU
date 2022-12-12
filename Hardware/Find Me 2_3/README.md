@@ -22,9 +22,9 @@ En activant les paramètres développeurs pour android, on peut voir sous chaque
 Grâce à l'un on peut trouver la marque du fabricant (*data missing*) : Raspberry PI
 
 Grâce à la deuxième, potentiellement calculer une distance. <br/>
-On se dit que flemme, c'est en salle admin, on en trouve une, "vire la, elle porte à confusion", donc c'est pas la bonne <br/>
+On se dit que flemme, c'est en salle admin, on trouve une Raspberry, "vire la, elle porte à confusion" qu'ils disent, donc c'est pas la bonne <br/>
 
-Et là, qu'est-ce qu'on voit au fond de la salle, caché dérrière un sac ? (très smart)
+Et là, qu'est-ce qu'on voit au fond de la salle, caché derrière un sac ! (très smart)
 
 ![img.png](img.png)
 
