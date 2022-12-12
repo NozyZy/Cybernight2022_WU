@@ -29,10 +29,10 @@ else:
 
 Beaucoup de texte encodé 🤧
 
-Mais en regardant de plus près, on voit que l'on doit rentre un input, sauvegardé dans `b`, mais surtotu encodé avant d'etre sauvegardé
-Puis on comparé cet input encodé avec `a`. Et la valeur de `a` ne change pas tout du long. Et si on affichait la valeur décodée de `a` ?
+Mais en regardant de plus près, on voit que l'on doit rentrer un input, sauvegardé dans `b`, mais surtout encodé avant d'etre sauvegardé<br/>
+Puis on compare cet input encodé avec `a`. Et la valeur de `a` ne change pas tout du long. Et si on affichait la valeur décodée de `a` ?
 
-En s'inspirant des lignes du codes, on peut alors avoir : 
+En s'inspirant des lignes du code, on peut alors avoir : 
 ```python
 print(base64.b85decode(wlcm.decode()).decode())
 print(base64.b85decode(a.decode()).decode())

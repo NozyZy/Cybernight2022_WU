@@ -11,7 +11,7 @@
 
 
 
-Bon bah du reverse, j'imagine que je vais ouvrir Ghidra ¯\_(ツ)_/¯
+Bon bah du reverse, j'imagine que je vais ouvrir Ghidra ¯\\_(ツ)_/¯
 
 On ouvre alors le fichier `auth1` à décompiler. Une fois fait, on cherche à gauche les fonctions et la fonction `main` devrait nous intéresser
 

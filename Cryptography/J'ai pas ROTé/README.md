@@ -17,11 +17,11 @@ Cette fois, c'est un poil trop explicite, mais on tente toutes les combinaisons 
 Ca ne marche EVIDEMMENT pas.
 
 
-Donc à un moment j'accepte de suivre ma première idée "c'est pas du ROT, mais un genre de ASCII"
-Ce n'est pas de l'ASCII pur, car ASCII(871) = g, donc on est loin du CYBN
-OR, on voit que l'écart entre 871 et 1157 est positif, et que l'écart entre 871 et 858 est négatif et très faible
+Donc à un moment j'accepte de suivre ma première idée "c'est pas du ROT, mais un genre de ASCII"<br/>
+Ce n'est pas de l'ASCII pur, car ASCII(871) = g, donc on est loin du CYBN<br/>
+OR, on voit que l'écart entre 871 et 1157 est positif, et que l'écart entre 871 et 858 est négatif et très faible<br/>
 
-Conclusion, ça peut très bien entre un ASCII avec facteur, puisque l'écart entre C et Y est grand, et entre C et B est petit
+Conclusion, ça peut très bien entre un ASCII avec facteur, puisque l'écart entre C et Y est grand, et entre C et B est petit<br/>
 On va donc vérifier ça : 
 
 ```py

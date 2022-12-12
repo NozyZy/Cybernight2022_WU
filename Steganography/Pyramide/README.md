@@ -16,9 +16,9 @@
 
 Celui-là m'a pris du temps alors qu'il n'était pas si compliqué
 
-Comme toujours quand j'ai des chall stegano avec image, je l'importe dans https://www.aperisolve.com/, et je ne trouve rien d'intéressant malheuresement (retenez bien)
-Je me disais que l'on devrait trouver une alternance de couleur, àn jouant avec les calques RGB, la luminosité, la variance, etc..
-Il n'y a STRICTEMENT AUCUNE différrence entre chaque triangle gris et blanc, donc je commence à douter
+Comme toujours quand j'ai des chall stegano avec image, je l'importe dans https://www.aperisolve.com/, et je ne trouve rien d'intéressant malheuresement (retenez bien)<br/>
+Je me disais que l'on devrait trouver une alternance de couleur, àn jouant avec les calques RGB, la luminosité, la variance, etc..<br/>
+Il n'y a STRICTEMENT AUCUNE différrence entre chaque triangle gris et blanc, donc je commence à douter<br/>
 
 Je me penche sur le côté "auteur", et essaie de chercher une ref à Zelda, ou HUF (triforce et logo ref), toujours rien
 
@@ -36,17 +36,18 @@ On récupère le binwalk, un .zip, et on extrait. Ya quoi dedans ??? bah une ima
 
 On a assurément ce que l'on cherchait depuis le début : la sélection des lettres voulues !
 
-On peut alors superposer les images et voir comment on le lit. On se rend rapidement compte qu'il faut lire de haut en bas et de droie à gauche
+On peut alors superposer les images et voir comment on le lit. On se rend rapidement compte qu'il faut lire de haut en bas et de droie à gauche<br/>
 ![img.png](img.png)
 
-Tout de suite heureux d'avoir un peu de culture : ça vient du film Astérix et Obélix : Mission Cléopatre
+Tout de suite heureux d'avoir un peu de culture : ça vient du film Astérix et Obélix : Mission Cléopatre<br/>
 Mais j'ai pas le nom du perso
 
 > “Vous ne sortirez jamais d'ici, étrangers ! Ce tombeau sera votre tombeau !”
 ![img_1.png](img_1.png)
 
 On cherche alors dans le Cast du film, mais la personne en question a pas mal changé depuis (aled)
-Il y a un seul nom de personnage qui me fait tiquer, et l'acteur est EDOUARD MONTOUTE : ![img_2.png](img_2.png)
+Il y a un seul nom de personnage qui me fait tiquer et l'acteur est EDOUARD MONTOUTE :<br/>
+![img_2.png](img_2.png)
 
 Ressemblance pas flagrante avec l'age, le maquillage, mais il s'agit bien de lui et son personnage : Nexusis
 

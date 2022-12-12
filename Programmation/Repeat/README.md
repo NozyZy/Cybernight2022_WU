@@ -12,10 +12,10 @@
 >
 > Command : nc 10.242.0.1 10002
 
-On se connecte donc via un shell, et ça nous demande répéter ma chaine '123456789'
+On se connecte donc via un shell, et ça nous demande répéter ma chaine '123456789'<br/>
 On répète donc, et ça nous demande d'aller plus vite, et de répéter une autre chaine
 
-En essayant plusieurs fois à la main, on voit que la première chaine est toujours la même, mais que les suivantes changent.
+En essayant plusieurs fois à la main, on voit que la première chaine est toujours la même, mais que les suivantes changent.<br/>
 Il faut donc programmer la répétition : 
 
 En utilisant le pacakeg python `pwntools` (`pip install pwntools`)
@@ -36,7 +36,7 @@ while True:
 conn.close()
 ```
 
-Vous remarquerez que l'on boucle à l'infini, et que l'on ne s'arrête pas quand l'on trouve un string 'CYBN', et bien parce que l'on doit répéter au moins une fois un faux flag
+Vous remarquerez que l'on boucle à l'infini, et que l'on ne s'arrête pas quand l'on trouve un string 'CYBN', et bien parce que l'on doit répéter au moins une fois un faux flag<br/>
 Donc on attend que l'on ne reçoive plus rien, c'est-à-dire quand la console arrête de print
 
 Allez, voilà le flag
