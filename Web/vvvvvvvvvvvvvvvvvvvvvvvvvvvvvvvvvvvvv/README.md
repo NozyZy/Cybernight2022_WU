@@ -13,7 +13,7 @@
 > Link : https://roombaverse.cybernight-c.tf/
 
 Le cauchemar de beaucoup, je le conçois.
-Je vais vous conter comment m'est venu l'idée à partir de ce titre, si bien trouve (*quoi ?!* vous me direz)
+Je vais vous conter comment m'est venue l'idée à partir de ce titre, si bien trouvé (*quoi ?!* vous me direz)
 
 Je discute avec mes mate pendant une pause et je dis 
 > vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv ca correspond à au aucune chaine de caractères
