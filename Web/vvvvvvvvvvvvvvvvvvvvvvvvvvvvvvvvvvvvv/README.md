@@ -46,6 +46,3 @@ Je reviens sur ma page de compte (connecté), et apparaît en bas de ma page de 
 > CYBN{VVvvvVVvvVvvVvvvvvvVVVVVV}
 
 🚩 CYBN{VVvvvVVvvVvvVvvvvvvVVVVVV}
-
-*Je mettrai à jour le flag si le site est un jour de nouveau accessible, je l'ai pas sauvegardé*
-
